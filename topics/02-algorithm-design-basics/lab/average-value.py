@@ -9,4 +9,4 @@ for i in (range(0, n)):
 average = total / n
 
 print ("Total:", total)
-print ("Average:", average)5
+print ("Average:", average)

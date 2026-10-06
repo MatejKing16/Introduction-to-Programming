@@ -14,7 +14,6 @@ Cíle
 -	Konverze data typů
 -	Kombinování smyček a podmínek dohromady k vyřešení praktických úloh
 -	Listy, slovník, množina, tuple(n-tice) - (abstraktní datové typy)
-
 Klíčová slova
 -	Data type, operators, loop, condition
 
