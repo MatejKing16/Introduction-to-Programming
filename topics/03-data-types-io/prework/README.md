@@ -10,14 +10,14 @@ Odhadněte typ a hodnotu výsledku. Pokud výraz skončí chybou, napište jakou
 
 | Výraz | Typ | Hodnota |
 |-------|-----|---------|
-| `7 / 2` | | |
-| `7 // 2` | | |
-| `-7 // 2` | | |
-| `0.1 + 0.2 == 0.3` | | |
-| `"5" * 3` | | |
-| `int(3.99)` | | |
-| `bool("False")` | | |
-| `"5" + 5` | | |
+| `7 / 2` | Float | 3,5 | 
+| `7 // 2` | Int | 3 |
+| `-7 // 2` | Int | -4 |
+| `0.1 + 0.2 == 0.3` | Bool | False |
+| `"5" * 3` | Str | 555 |
+| `int(3.99)` | int | 4 |
+| `bool("False")` | bool | False|
+| `"5" + 5` | - | Type error  |
 
 Odhad ověříte například takto: `print(type(7 / 2), 7 / 2)`.
 
