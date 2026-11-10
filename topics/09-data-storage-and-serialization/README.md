@@ -18,7 +18,7 @@ Přehled serializace dat pro ukládání a přenos: JSON, CSV a jednoduché
 binární formáty. Studenti se naučí ukládat strukturovaná data,
 znovu je načítat a uvažovat o kompromisu mezi čitelností a velikostí dat.
 
-- [Komentované příklady: ukládání dat a serializace](seminar.md)
+- [Komentované příklady: ukládání dat a serializace](seminar/seminar.md)
 
 ### Osnova
 
@@ -30,9 +30,9 @@ znovu je načítat a uvažovat o kompromisu mezi čitelností a velikostí dat.
 
 ## Cvičení
 
-Úkol pro domácí přípravu je [zde](assignment.md).
+Úkol pro domácí přípravu je [zde](prework/assignment.md).
 
-Úkoly pro samostatnou práci na cvičení jsou [zde](tasks.md).
+Úkoly pro samostatnou práci na cvičení jsou [zde](lab/tasks.md).
 
 
 Příklad: uložení a načtení JSON
